@@ -3,7 +3,7 @@ _Object notation in pure Kotlin!_
 
 [![Build Status](https://travis-ci.org/Jire/KTON.svg?branch=master)](https://travis-ci.org/Jire/KTON)
 [![Dependency Status](https://www.versioneye.com/user/projects/579a95b33815c8004c5f7bf2/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/579a95b33815c8004c5f7bf2)
-[![license](https://img.shields.io/github/license/Jire/KTON.svg)](https://github.com/Jire/KTON/blob/master/LICENSE.txt)
+[![license](https://img.shields.io/github/license/platan/KTON.svg)](https://github.com/pltana/KTON/blob/master/LICENSE)
 
 ### Gradle
 ```groovy
